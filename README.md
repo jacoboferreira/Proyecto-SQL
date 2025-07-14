@@ -7,7 +7,7 @@ Proyecto de consultas de lógica SQL del programa **The Power MBA**.
 ## 1. Resumen o descripción
 
 El proyecto consiste en entender y resolver **64 consultas SQL**.  
-Para ello, trabajamos con una **base de datos de una empresa de alquiler de películas** compuesta por múltiples tablas relacionadas.
+Para ello, trabajé con una **base de datos de una empresa de alquiler de películas** compuesta por múltiples tablas relacionadas.
 
 ---
 
@@ -26,10 +26,10 @@ El repositorio contiene 3 archivos principales y este README:
 
 Para ejecutar y analizar este proyecto, se recomienda tener instaladas las siguientes herramientas:
 
-- Excel
-- PostgreSQL
-- DBeaver
-- Word
+- Excel: herramienta por si se quiere hacer una primer visualización de los datos.
+- PostgreSQL: Conexion para poder usar el código:
+- DBeaver: programa para resolver los ejercicios.
+- Word: el word para ir tomando anataciones de lo que hacia y poder desarrollar mis pensamientos a la hora de resolver los ejercicios. 
 
 ---
 
